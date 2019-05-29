@@ -1,0 +1,9 @@
+a=8
+b=2
+print('Addition:\t',a,'+',b,'=',a+b,
+      '\nSubtraction:\t',a,'-',b,'=',a-b,
+      '\nMultiplication:\t',a,'*',b,'=',a*b,
+      '\nDivision:\t',a,'/',b,'=',a/b,
+      '\nFloor Division:\t',a,'//',b,'=',a//b,
+      '\nModulus:\t',a,'%',b,'=',a%b,
+      '\nExponent:\t',a,'**2=',a**b)
