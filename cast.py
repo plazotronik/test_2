@@ -30,4 +30,3 @@ suma=ascii(ord(sum))
 print('\nData Type sum :',suma,type(suma))
 sumh=hash(ord(sum))
 print('\nData Type sum :',sumh,type(sumh))
-
