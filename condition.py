@@ -6,6 +6,3 @@ print('\nVariable b Is :','One'if(b==1)else'Not One','\nVariable b Is :','Even'i
 max=a if(a>b)else b
 min=a if(a<b)else b
 print('\nGreater Value Is:',max,'\nLesser Value Is:',min,end='\n\n\n')
-
-
-
